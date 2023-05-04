@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Mariah! A fullstack developer based in the Netherlands.
+I'm currently working on the 2023 SheSharp Hackathon.
 
 <!--
 **mariahlaqua/mariahlaqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

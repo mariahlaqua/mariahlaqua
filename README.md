@@ -2,7 +2,7 @@
 - I'm Mariah! 
 - My pronouns are she/her or they/them.
 - I'm a fullstack developer based in the Netherlands.
-- I volunteer with [SheSharp](https://www.shesharp.co), a non-profit dedicated to helping underrepresented genders enter, stay and grow in the tech industry.
+- I'm the Volunteer Coordinator of [SheSharp](https://www.shesharp.co), a non-profit dedicated to helping underrepresented genders enter, stay and grow in the tech industry.
 - I'm currently working on the [2023 SheSharp Hacktoberfest](https://www.shesharp.co/hacktoberfest)! We're looking for contributors from the community to improve our [GitHub Repositories.](https://github.com/shesharpnl)
 - You can join the SheSharp Community via our [Slack channel](https://www.shesharp.co/slack).
 

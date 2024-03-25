@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Mariah! 
-- My pronouns are she/her or they/them.
+- My pronouns are she/her.
 - I'm a fullstack developer based in the Netherlands.
 - I'm the Volunteer Coordinator of [SheSharp](https://www.shesharp.co), a non-profit dedicated to helping underrepresented genders enter, stay and grow in the tech industry.
   Within SheSharp, I'm currently focused on fostering SheSharp's Open Source community. We're looking for contributors to improve our [GitHub Repositories.](https://github.com/shesharpnl)
